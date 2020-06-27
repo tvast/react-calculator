@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.column-3 {
+  width: 75%;
+  float: left;
+}
+.column-2 {
+  width:50%;
+  float: left;
+}
+
+.column-1 {
+  width: 25%;
+  float: left;
+}
+ button {
+width: 100%;
+border: 2px solid grey;
+background-color: lightskyblue;
+color: white;
+ }
+
+ input {
+   height: 100px;
+   width: 100%;
+   border :none;
+   font-size: 2em;
+   font-style: bold;
+   float: right;
+
+ }
